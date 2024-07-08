@@ -1,5 +1,4 @@
-# classification-challenge
+# Classification
 
-I mostly referenced class activities and notes for this exercise. 
 
-ChatGPT was also used.
+
